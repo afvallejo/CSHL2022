@@ -1,1 +1,2 @@
-# CSHL2022
+# Bioinformatics Training
+
